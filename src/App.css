@@ -38,14 +38,7 @@ header{
 	margin: 20px 0px;
 }
 
-.container2{
-	margin: 20px;
-	overflow: hidden;
-	height: auto;
-	display: flex;
-	justify-content: space-between;
-	align-items: start;
-}
+
 .vid{
 	width: 100%;
 	display: block;
@@ -119,6 +112,35 @@ header{
     margin-left: auto;
     margin-right: auto;
 	padding: 20px 10px;
+}
+
+.container2{
+	margin: 20px;
+	overflow: hidden;
+	height: auto;
+	display: flex;
+	justify-content: space-between;
+	align-items: start;
+}
+
+@media screen and (max-width: 768px) {
+	#events{
+		width: 90%;
+	}
+	.container2{
+		justify-content: center;
+		align-items: center;
+		flex-direction: column;
+	}
+	#main{
+		width: 90%;
+	}
+	#main p{
+		font-size: 25px;
+	}
+	#main-header{
+		font-size: 40px !important;
+	}
 }
 
 /* Header css */
