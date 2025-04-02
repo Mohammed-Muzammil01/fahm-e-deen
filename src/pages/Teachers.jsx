@@ -59,8 +59,15 @@ function Teachers() {
 				</div>
 
 				<div className="teacher">
-				<h2>Ustadha Tabassum Khan</h2>
-				<p>Tabassum Khan is born and brought up in India and has Bachelor degree in Chemistry and Master degree in Islamic studies from Mumbai university. She has graduated in Alimah program from Nur ul ilm Academy, Dubai (online). Presently learning and sharing the knowledge of deen with sisters, only by the Mercy of Allah (s.w.t).</p>
+				<h2>Ustadha Farisa Meher</h2>
+				<p>Farisa Meher is born and bought up in India, and has a bachelors degree in commerce and accounts, from Anwaar ul loom college. She has graduated in Alimah program from Nur ul Ilm Academy, Dubai.
+				Presently learning and sharing the knowledge of deen with sisters, only by the Mercy of Allah taa’la</p>
+				</div>
+
+				<div className="teacher">
+				<h2>Ustadha Rubina Islam</h2>
+				<p>Rubina Islam is born in India (UP Allahabad) and has completed B. Sc (bio) from Allahabad University. She has graduated in Alimah program from Nur ul ilm Academy, Dubai. 
+				Presently learning and sharing the knowledge of deen with sisters, only by the Mercy of Allah(swt)</p>
 				</div>
 
                 </section>

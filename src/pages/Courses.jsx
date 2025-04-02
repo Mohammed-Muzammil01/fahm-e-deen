@@ -7,7 +7,41 @@ function Courses() {
         <div className="container2">
                 <section id="main">
                 <h1>Courses</h1>
-				
+				<br/>
+				<div><h2>Shariah Essentials (1yr) / Aalimah Course (5 yrs) in English (2025-2026)</h2>
+				<h5>Subjects offered:</h5>
+				<ol>
+					<li>Quran Tafseer (30th Juzz tafseer)</li>
+					<li>Tajweed</li>
+					<li>Hadith</li>
+					<li>Quranic grammar/Arabic Adab</li>
+					<li>Hanafi Fiqh (Basic Ibadah)</li>
+					<li>Arabic grammar - Nahw</li>
+					<li>Arabic grammar - Sarf</li>
+				</ol>
+				<h5>Duration: 1 year</h5>
+				<h5>Start Date: Monday, 19th May, 2025</h5>
+				<h5 id="registration">Registration form: <a href="https://forms.gle/FvU3GocsqjtfxDT37" target="_blank" rel="noreferrer">Click here</a></h5>
+				</div>
+				<br/>
+
+				<div><h2>Shariah Essentials (1yr) / Aalimah Course (5 yrs) in Urdu (2024-2025)</h2>
+				<h5>Subjects offered:</h5>
+				<ol>
+					<li>Quran Tafseer (30th Juzz tafseer)</li>
+					<li>Tajweed</li>
+					<li>Hadith</li>
+					<li>Quranic grammar/Arabic Adab</li>
+					<li>Hanafi Fiqh (Basic Ibadah)</li>
+					<li>Arabic grammar - Nahw</li>
+					<li>Arabic grammar - Sarf</li>
+				</ol>
+				<h5>Duration: 1 year</h5>
+				<h5>Start Date: Monday, 23rd September, 2024</h5>
+				<h5 id="registration">Registration form: <a href="https://forms.gle/D2jgTsPJq3Hm2h7s5" target="_blank" rel="noreferrer">Click here</a></h5>
+				</div>
+				<br/>
+
 				<div>
 				<h2>Shariah Essentials/Aalimah Course Year-1 in Urdu(2021-2022):</h2>
 				<h5>Subjects offered:</h5>
@@ -21,7 +55,8 @@ function Courses() {
 				</ol>
 				<h5>Duration: 1 year</h5>
 				<h5>Start Date: 9th January 2023</h5>
-				<h5 id="registration">Registration form: <a href="https://forms.gle/WETZrNKKQ1WCpqvn7" target="_blank" rel="noreferrer">Click here</a></h5></div>
+				<h5 id="registration">Registration form: <a href="#" target="_blank" rel="noreferrer">Closed</a></h5></div>
+				<br/>
 
 				<div><h2>Shariah Essentials / Aalimah Course Year-1 in English (2022-2023):</h2>
 				<h5>Subjects offered:</h5>
@@ -35,8 +70,9 @@ function Courses() {
 				</ol>
 				<h5>Duration: 1 year</h5>
 				<h5>Start Date: Monday, 14th Feb, 2022</h5>
-				<h5 id="registration">Registration form: <a href="https://forms.gle/592mGjFr7s9bDFhY6" target="_blank" rel="noreferrer">Click here</a></h5>
+				<h5 id="registration">Registration form: <a href="#" target="_blank" rel="noreferrer">Closed</a></h5>
 				</div>
+				<br/>
 				
 				<div>
 					<h2>Aalimah Course Year-2 in Urdu (2022-2023):</h2>
@@ -52,8 +88,9 @@ function Courses() {
 				<h5>*Requirement: Latest year of completion marks card is compulsory for registration.</h5>
 				<h5>Duration: 1 year</h5>
 				<h5>Start Date: 9th January 2023</h5>
-				<h5 id="registration">Registration form: <a href="https://forms.gle/LJRR9L5ymhMNnL1W8" target="_blank" rel="noreferrer">Click here</a></h5>
+				<h5 id="registration">Registration form: <a href="#" target="_blank" rel="noreferrer">Closed</a></h5>
 				</div>
+				<br/>
 				
 				<div>
 					<h2>Aalimah Course Year-2 in English (2022-2023):</h2>
@@ -70,8 +107,9 @@ function Courses() {
 				<h5>*Requirement: Latest year of completion marks card is compulsory for registration.</h5>
 				<h5>Duration: 1 year</h5>
 				<h5>Start Date: Monday, 14th Feb, 2022</h5>
-				<h5 id="registration">Registration form: <a href="https://forms.gle/XxFEPQFmMweBHSa2A" target="_blank" rel="noreferrer">Click here</a></h5>
+				<h5 id="registration">Registration form: <a href="#" target="_blank" rel="noreferrer">Closed</a></h5>
 				</div> 
+				<br/>
 				
 				<div>
 					<h3>InshaAllah, at the end of the course, you will be able to:</h3>
